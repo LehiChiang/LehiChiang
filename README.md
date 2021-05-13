@@ -7,7 +7,7 @@
 Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on object detection tasks.
-- 🌱 I’m currently learning Android and backend development.
+- 🌱 I’m currently learning coding and backend development.
 <!-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
